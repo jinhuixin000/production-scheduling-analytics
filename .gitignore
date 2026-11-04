@@ -1,0 +1,13 @@
+.r-library/
+.pg-test/
+*.log
+.Rhistory
+.RData
+.Renviron
+.env
+rsconnect/
+.Rproj.user/
+data/processed/*.csv
+!data/processed/.gitkeep
+.r-temp/
+.pg-validation/

@@ -1,0 +1,4 @@
+instance_id,expected_jobs,expected_machines,expected_operations,jobs,machines,operations
+ft06,6,6,36,6,6,36
+ft10,10,10,100,10,10,100
+la01,10,5,50,10,5,50

@@ -1,0 +1,2 @@
+# Preserve byte-exact upstream files for SHA-256 verification.
+data/raw/*.json -text

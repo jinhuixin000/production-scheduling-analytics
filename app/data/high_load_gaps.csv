@@ -1,0 +1,10 @@
+instance_id,rule,machine_id,busy,idle,leading,internal,trailing
+ft06,FIFO,5,43,22,10,12,0
+ft06,LPT,5,43,24,18,0,6
+ft06,SPT,5,43,45,6,25,14
+ft10,FIFO,3,631,553,239,123,191
+ft10,LPT,3,631,664,290,213,161
+ft10,SPT,3,631,443,115,276,52
+la01,FIFO,4,666,106,0,0,106
+la01,LPT,4,666,126,0,0,126
+la01,SPT,4,666,85,0,0,85

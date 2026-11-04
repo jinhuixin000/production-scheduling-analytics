@@ -1,0 +1,6 @@
+PGHOST=127.0.0.1
+PGPORT=5432
+PGDATABASE=portfolio
+PGUSER=postgres
+# Configure the password in pgpass.conf or use psql -W.
+# Never commit credentials.

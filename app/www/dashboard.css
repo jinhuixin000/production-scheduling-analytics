@@ -1,0 +1,16 @@
+body { background: #f3f6fa; color: #162c43; font-family: "Microsoft JhengHei", system-ui, sans-serif; }
+.container-fluid { max-width: 1320px; padding: 24px clamp(16px, 4vw, 54px); }
+.hero { background: #102c48; color: #fff; padding: 30px 32px; border-radius: 12px; }
+.hero h1 { font-size: clamp(24px, 3vw, 38px); margin: 12px 0; font-weight: 700; }
+.hero p { color: #dce6ef; margin: 0; }
+.eyebrow { letter-spacing: .12em; color: #b9d5ed; font-size: 12px; }
+.filters { display: flex; gap: 16px; flex-wrap: wrap; padding-top: 18px; }
+.filters .shiny-input-container { width: 185px; }
+.panel { margin-top: 0; padding: 22px; border: 1px solid #dee6ef; border-radius: 0 0 12px 12px; box-shadow: none; }
+h2 { font-size: 23px; margin-top: 0; font-weight: 700; }
+h3 { font-size: 18px; }
+.metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(155px, 1fr)); gap: 12px; margin: 18px 0; }
+.metric { background: #f4f7fa; border-left: 3px solid #3171a3; padding: 13px; }
+.metric span, .metric strong { display: block; }
+.metric strong { font-size: 23px; margin-top: 6px; }
+.prose { line-height: 1.8; }
