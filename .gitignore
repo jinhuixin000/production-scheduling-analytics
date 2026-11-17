@@ -11,3 +11,12 @@ data/processed/*.csv
 !data/processed/.gitkeep
 .r-temp/
 .pg-validation/
+
+# Open Mobility Intelligence Lab
+node_modules/
+open-mobility-intelligence-lab/web/dist/
+open-mobility-intelligence-lab/data/raw/
+open-mobility-intelligence-lab/web/.vitest-report.json
+__pycache__/
+.pytest_cache/
+.venv/
